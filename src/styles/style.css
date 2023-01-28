@@ -185,7 +185,16 @@ html.is-animating .slide-in-right  {
    justify-content: space-between !important;
    align-items: center  !important;
 }
-
+.midnightHeader.verde > a {
+  background: #0f523c;
+  color: #d1b95a;
+   overflow-x: hidden;
+   display: flex;
+ display: flex !important;
+   flex-direction: row !important;
+   justify-content: space-between !important;
+   align-items: center  !important;
+}
 .midnightHeader.rosa {
   background: #fddfdc;
   color: white;
